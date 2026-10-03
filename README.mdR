@@ -1,1 +1,20 @@
-README.md
+Pandas
+
+This repository contains Python code and examples for learning and practicing data manipulation and data analysis using Pandas.
+
+Topics Covered
+. Introduction to Pandas
+. Series
+. DataFrame
+. Creating DataFrames
+. Reading and Writing CSV Files
+. Reading Excel Files
+. Data Selection and Filtering
+. Adding and Removing Columns
+. Sorting Data
+. Handling Missing Values
+. GroupBy
+. Aggregation
+. Merging and Joining DataFrames
+. Data Cleaning
+. Data Analysis
